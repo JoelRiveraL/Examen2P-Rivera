@@ -1,0 +1,1 @@
+’R|C:\Users\joela\Documents\Semestre6\Pruebas de software\Examenes\Examen2RiveraJoel\Examen2RiveraJoel\Examen2RiveraJoel.csproj¢net8.0òCSharp12
